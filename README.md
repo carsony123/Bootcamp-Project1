@@ -11,10 +11,12 @@ conclusion we hope to properly display the lasting affects covid-19 had on the w
 
 * What was the number of new cases reported per country during its peak?
 * How long did it take each country to reach its peak infection rate?
-* 
-* How did Covid-19 effect mental health in a 2 year time period?
-* How did Covid-19 effect school enrollment?
-* How did Covid-19 effect per capita spending?
+* What did Covid-19 do to mortality rates?
+* How did Covid-19 effect mental health based on age?
+* How did Covid-19 effect mental health based on sex?
+* How did Covid-19 effect school enrollment for core education?
+* How did Covid-19 effect school enrollment for universities?
+* How did Covid-19 effect unemployment?
 
 ## Citations
 
@@ -30,7 +32,7 @@ conclusion we hope to properly display the lasting affects covid-19 had on the w
 
 ## Project Contributors
 
-Candy Martinez
-Carson Young
-Peter Holgerson
+Candy Martinez\
+Carson Young\
+Peter Holgerson\
 Saajan Patel
